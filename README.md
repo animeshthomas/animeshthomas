@@ -8,7 +8,7 @@ I'm Animesh Thomas, a software enthusiast passionate about building web and mobi
 
 💬 Feel free to ask me about anything related to software development, tech trends, or project ideas.
 
-📫 You can reach me via [email](mailto:animesh@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/animeshthomas/).
+📫 You can reach me via [email](mailto:animeshthomas262@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/animesh-thomas/).
 
 😄 Pronouns: He/Him
 
