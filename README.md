@@ -9,9 +9,3 @@ I'm Animesh Thomas, a software enthusiast passionate about building web and mobi
 💬 Feel free to ask me about anything related to software development, tech trends, or project ideas.
 
 📫 You can reach me via [email](mailto:animeshthomas262@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/animesh-thomas/).
-
-😄 Pronouns: He/Him
-
-⚡ Fun fact: I'm also a big fan of hiking and exploring the great outdoors!
-
-Let's code and create something awesome together! 🚀
