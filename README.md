@@ -2,10 +2,9 @@
 
 Software developer with 2 years of professional experience, specializing in backend development, REST API design, and cloud infrastructure.
 
-- Currently working with **MERN Stack**
-- 2 years of professional experience in **Python**
+- Currently working with **Python**
 - Experienced in **REST API development**, **AWS**, and **database design**
-- Also learning **Flutter**
+- Also learning **Flutter** and **MERN Stack**
 - Ask me about backend development, APIs, or project ideas
 - Reach me at [animeshthomas262@gmail.com](mailto:animeshthomas262@gmail.com)
 
